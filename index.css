@@ -68,10 +68,10 @@ body {
 
 .image9 {
 	position: absolute;
-	width: 600px;
-	height: 650px;
-	left: 1100px;
-	top: 2550px;
+	width: 850px;
+	height: 500px;
+	left: 1075px;
+	top: 2475px;
 }
 .image10 {
 	position: absolute;
@@ -304,6 +304,20 @@ body {
 	height: 82px;
 	left: 152px;
 	top: 2675px;
+}
+.image43 {
+	position: absolute;
+	width: 285px;
+	height: 182px;
+	left: 742px;
+	top: 2775px;
+}
+.image44 {
+	position: absolute;
+	width: 285px;
+	height: 182px;
+	left: 952px;
+	top: 2825px;
 }
 
 .nav {
