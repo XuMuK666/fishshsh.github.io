@@ -369,3 +369,19 @@ margin: 0 50px;
     color: #FF5209;
     text-decoration: underline;
     }
+
+@media only screen and (max-width: 1200px) {
+
+ }
+ @media only screen and (max-width: 992px) {
+
+ }
+ @media only screen and (max-width: 650px) {
+
+ }
+ @media only screen and (max-width: 480px) {
+
+ }
+ @media only screen and (max-width: 400px) {
+
+ }
